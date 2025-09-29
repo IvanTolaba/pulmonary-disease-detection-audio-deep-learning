@@ -41,4 +41,4 @@ El objetivo es contribuir al diagnóstico asistido de enfermedades pulmonares co
 👨‍💻 Iván Tolaba  
 Data Science & Deep Learning aplicado a señales biomédicas   
 
-🔗 [LinkedIn](https://www.linkedin.com/in/iv%C3%A0n-tolaba-b161927b) | [Portfolio Web](https://ivantolaba.github.io/Portfolio-IA) | [Email](mailto:ivn.tlb@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/iv%C3%A0n-tolaba-b161927b) | [Portfolio Web](https://ivantolaba.github.io/Portfolio-IA) | Email: ivn.tlb@gmail.com  
