@@ -12,7 +12,7 @@ El objetivo es contribuir al diagnóstico asistido de enfermedades pulmonares co
   - CNN  
   - CNN-LSTM  
   - CNN-BLSTM  
-- Se alcanzaron métricas **superiores al 80% de exactitud**, mostrando el potencial de las redes neuronales en aplicaciones biomédicas.  
+- Se alcanzarzó una exactitud de **~81% (80.83%) de exactitud**, mostrando el potencial de las redes neuronales en aplicaciones biomédicas.  
 
 ---
 
