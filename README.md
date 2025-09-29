@@ -17,8 +17,8 @@ El objetivo es contribuir al diagnóstico asistido de enfermedades pulmonares co
 ---
 
 ## 📊 Resultados Destacados  
-- Accuracy > **81%** en todos los modelos.  
-- Evaluación con **matrices de confusión** y **curvas ROC**.  
+- Accuracy > **80%** en todos los modelos.  
+- Evaluación con **matrices de confusión, Exactitud, precisión, sencibilidad, F1, AUC, y curvas ROC**.  
 - Generalización validada con **conjuntos de entrenamiento, validación y prueba**.  
 
 ---
@@ -31,14 +31,14 @@ El objetivo es contribuir al diagnóstico asistido de enfermedades pulmonares co
 ---
 
 ## 📂 Estructura del Repositorio  
-- `Portfolio_CNN_LSTM2.ipynb` → Notebook con pipeline completo y entrenamiento de modelos.  
+- `pulmonary_disease_detection.ipynb` → Notebook con pipeline y entrenamiento de modelos.  
 - `data/` → Carpeta sugerida para almacenar audios (no incluida en este repo por privacidad).  
-- `results/` → Gráficas y métricas de desempeño.  
+- 
 
 ---
 
 ## 📌 Autor  
 👨‍💻 Iván Tolaba  
-Bioingeniero | Data Science & Deep Learning aplicado a señales biomédicas  
+Data Science & Deep Learning aplicado a señales biomédicas  
 
-🔗 [LinkedIn](https://www.linkedin.com) | [Portfolio Web](https://tusitio.com) | [Email](mailto:tuemail@gmail.com)  
+🔗 [LinkedIn](www.linkedin.com/in/norberto-ivan-tolaba) | [Portfolio Web](https://ivantolaba.github.io/Portfolio-IA) | [Email](ivn.tlb@gmail.com)  
