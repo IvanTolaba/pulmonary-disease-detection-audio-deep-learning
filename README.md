@@ -33,7 +33,7 @@ El objetivo es contribuir al diagnóstico asistido de enfermedades pulmonares co
 ## 📂 Estructura del Repositorio  
 - `pulmonary_disease_detection.ipynb` → Notebook con pipeline y entrenamiento de uno de los modelos: CNN-LSTM.  
 - `data/` → Carpeta sugerida para almacenar audios (no incluida en este repo por privacidad).  
-- 
+- `README.md` 
 
 ---
 
